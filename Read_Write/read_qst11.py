@@ -1,0 +1,1 @@
+#11. What data structure does a shelf value resemble?
