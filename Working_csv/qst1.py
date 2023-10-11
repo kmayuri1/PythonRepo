@@ -1,0 +1,2 @@
+#1. What are some features Excel spreadsheets have that CSV spread-sheets don’t?
+print('CSV files dont have types for their values-everything is string \n Dont have setting for font size and color \n Dont have multiple worksheets \n It cant specify cell widths and heights\n They dont have merged cells \n Dont have images or charts embedded in them')
